@@ -157,15 +157,21 @@ public class HomeWork3 {
             System.out.println("Your Chinese year is rat ");
         }
          */
-        
+        /*
         System.out.println("Write a year)");
         Scanner scanner=new Scanner(System.in);
         int year=scanner.nextInt();
         if(year%4==0)
             System.out.println("In this year 365 days");
         else System.out.println("In this year 366 days");
-
-
+        */
+        System.out.println("Write a letter");
+        Scanner scanner=new Scanner(System.in);
+        char letter=scanner.next().charAt(0);
+        if(letter>=48 && letter<=57)System.out.println("Figure");
+        else if( (letter>=65 && letter<=90) || (letter>=97 && letter<=122) )System.out.println("Latin");
+        else if(letter>=192 && letter<=255)System.out.println("Cyrillic");
+        else System.out.println("Can't defind");
 
 
 

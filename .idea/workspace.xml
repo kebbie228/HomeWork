@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a226d86-ec19-4316-9a29-6d6a7691fd3f" name="Changes" comment="my first homework">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3.java" afterDir="false" />
+    <list default="true" id="4a226d86-ec19-4316-9a29-6d6a7691fd3f" name="Changes" comment="my third homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -60,7 +66,7 @@
       <workItem from="1664637211586" duration="241000" />
       <workItem from="1664637480037" duration="2188000" />
       <workItem from="1664730443770" duration="8982000" />
-      <workItem from="1664902170524" duration="10251000" />
+      <workItem from="1664902170524" duration="13258000" />
     </task>
     <task id="LOCAL-00001" summary="my first homework">
       <created>1664637639750</created>
@@ -69,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664637639750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my third homework">
+      <created>1664916665223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664916665223</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first homework" />
+    <MESSAGE value="my third homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="my third homework" />
   </component>
 </project>
