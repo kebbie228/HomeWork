@@ -28,6 +28,7 @@ public class HomeWork3 {
             case 7:
                 System.out.println("Today is Sunday");
                 break;
+
                 }
                 */
         /*
@@ -121,11 +122,14 @@ public class HomeWork3 {
             System.out.println("Your zodiac sign is Sagittarius");}
         if( (day>=22 && month==12) ||(day<=19 && month==1) ){
             System.out.println("Your zodiac sign is Capricorn");}
+            */
 
-        year=(1972-year)%12;
-
+/*
+        year=(2008-year)%12;
+        System.out.println(year);
         if(year<0) {
             year =Math.abs(year);
+            System.out.println(year);
             if (year == 0) System.out.println("Your Chinese year is rat ");
             if (year == 1) System.out.println("Your Chinese year is ox ");
             if (year == 2) System.out.println("Your Chinese year is tiger ");
@@ -140,6 +144,7 @@ public class HomeWork3 {
             if (year == 11) System.out.println("Your Chinese year is pig ");
         }
         else if(year>0){
+            year =12-year;
             if (year == 0) System.out.println("Your Chinese year is rat ");
             if (year == 1) System.out.println("Your Chinese year is ox ");
             if (year == 2) System.out.println("Your Chinese year is tiger ");
@@ -156,7 +161,7 @@ public class HomeWork3 {
         else{
             System.out.println("Your Chinese year is rat ");
         }
-         */
+  */
         /*
         System.out.println("Write a year)");
         Scanner scanner=new Scanner(System.in);
@@ -165,6 +170,7 @@ public class HomeWork3 {
             System.out.println("In this year 365 days");
         else System.out.println("In this year 366 days");
         */
+        /*
         System.out.println("Write a letter");
         Scanner scanner=new Scanner(System.in);
         char letter=scanner.next().charAt(0);
@@ -172,12 +178,56 @@ public class HomeWork3 {
         else if( (letter>=65 && letter<=90) || (letter>=97 && letter<=122) )System.out.println("Latin");
         else if(letter>=192 && letter<=255)System.out.println("Cyrillic");
         else System.out.println("Can't defind");
-
-
-
-
-
+*/
+        /*
+        System.out.println("Write a 2 numbers)");
+        Scanner scanner=new Scanner(System.in);
+        int x=scanner.nextInt();
+        int y=scanner.nextInt();
+        if(x%2==0 && y%2==0) System.out.println("even");
+        else if (x%2!=0 && y%2!=0) System.out.println("odd");
+       */
+        /*
+        System.out.println("Write a coordinates of segment (x1,y1),(x2,y2)");
+        Scanner scanner=new Scanner(System.in);
+        int x1=scanner.nextInt();
+        int y1=scanner.nextInt();
+        int x2=scanner.nextInt();
+        int y2=scanner.nextInt();
+        if(x2>x1 && y2>y1) System.out.println("It is ascent");
+        if(x1>x2 && y2>y1) System.out.println("It is descent");
+        if(x2>x1 && y2<y1)System.out.println("It is  ascent");
+        if(x2>x1 && y2<y1)System.out.println("It is descent");
+        if( (x1>x2 || x2>x1) && y2==y1)System.out.println("It is smooth");
+        if( (y1>y2 || y2>y1) && x2==x1)System.out.println("It is upright");
+        */
+        /*
+        System.out.println("Write apartment number and apartments on each floor");
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        double m = scanner.nextDouble();
+        double k = m * 9;
+        double e,s=1;
+        e=m;
+        for (int i = 1; i <=k; i++) {
+            if(i>m){s++;m=e*s;}
+            if(i==n){System.out.println(m/e);break;}
         }
-    }
+        */
+
+        System.out.println("Write a,b,c quadratic equation");
+        Scanner scanner = new Scanner(System.in);
+        double a = scanner.nextDouble();
+        double b = scanner.nextDouble();
+        double c = scanner.nextDouble();
+        double d,x1,x2,x;
+        d=Math.sqrt(b*b-4*a*c);
+        if(d>0){ x1=(-b+d)/(2*a);
+            x2=(-b-d)/(2*a);
+            System.out.printf("x1=%f"+" x2=%f",x1,x2);}
+        else if(d<0) System.out.println("no roots");
+        else {x=-b/2*a;System.out.printf("x=%f",x);}
 
 
+
+    }}
