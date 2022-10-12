@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a226d86-ec19-4316-9a29-6d6a7691fd3f" name="Changes" comment="my third homework">
+      <change afterPath="$PROJECT_DIR$/src/StonePaperScissor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3.java" afterDir="false" />
     </list>
@@ -46,7 +48,11 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -55,6 +61,20 @@
     ]
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.homework4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +88,13 @@
       <workItem from="1664730443770" duration="8982000" />
       <workItem from="1664902170524" duration="13258000" />
       <workItem from="1664981026363" duration="9346000" />
+      <workItem from="1665059070023" duration="833000" />
+      <workItem from="1665084037829" duration="259000" />
+      <workItem from="1665084359894" duration="628000" />
+      <workItem from="1665085958671" duration="1051000" />
+      <workItem from="1665501521148" duration="9821000" />
+      <workItem from="1665518739577" duration="2613000" />
+      <workItem from="1665577657756" duration="15592000" />
     </task>
     <task id="LOCAL-00001" summary="my first homework">
       <created>1664637639750</created>
@@ -97,7 +124,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
@@ -110,5 +137,21 @@
     <MESSAGE value="my first homework" />
     <MESSAGE value="my third homework" />
     <option name="LAST_COMMIT_MESSAGE" value="my third homework" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework4.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework4.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

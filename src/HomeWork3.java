@@ -214,7 +214,7 @@ public class HomeWork3 {
             if(i==n){System.out.println(m/e);break;}
         }
         */
-
+/*
         System.out.println("Write a,b,c quadratic equation");
         Scanner scanner = new Scanner(System.in);
         double a = scanner.nextDouble();
@@ -227,7 +227,8 @@ public class HomeWork3 {
             System.out.printf("x1=%f"+" x2=%f",x1,x2);}
         else if(d<0) System.out.println("no roots");
         else {x=-b/2*a;System.out.printf("x=%f",x);}
+*/
+        
 
 
-
-    }}
+        }}
