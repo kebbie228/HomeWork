@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a226d86-ec19-4316-9a29-6d6a7691fd3f" name="Changes" comment="my third homework">
-      <change afterPath="$PROJECT_DIR$/src/homework5.java" afterDir="false" />
+    <list default="true" id="4a226d86-ec19-4316-9a29-6d6a7691fd3f" name="Changes" comment="my fifth homework">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranings/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranings/src/traningArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranings/tranings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +47,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,7 +66,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.homework5">
+  <component name="RunManager" selected="Application.homework6">
     <configuration name="homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework4" />
       <module name="HomeWork" />
@@ -74,8 +81,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="traning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="traning" />
+      <module name="tranings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="traningArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="traningArrays" />
+      <module name="tranings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework6" />
+        <item itemvalue="Application.traningArrays" />
+        <item itemvalue="Application.traning" />
         <item itemvalue="Application.homework5" />
         <item itemvalue="Application.homework4" />
       </list>
@@ -102,7 +133,13 @@
       <workItem from="1665518739577" duration="2613000" />
       <workItem from="1665577657756" duration="15592000" />
       <workItem from="1665764462391" duration="2927000" />
-      <workItem from="1665920407964" duration="6530000" />
+      <workItem from="1665920407964" duration="6849000" />
+      <workItem from="1666088397761" duration="1826000" />
+      <workItem from="1666113827220" duration="4270000" />
+      <workItem from="1666373856429" duration="2554000" />
+      <workItem from="1666459704855" duration="7561000" />
+      <workItem from="1666516460552" duration="11949000" />
+      <workItem from="1666614900103" duration="3773000" />
     </task>
     <task id="LOCAL-00001" summary="my first homework">
       <created>1664637639750</created>
@@ -118,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664916665223</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="my fifth homework">
+      <created>1665940694606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665940694606</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +188,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first homework" />
     <MESSAGE value="my third homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="my third homework" />
+    <MESSAGE value="my fifth homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="my fifth homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -178,6 +223,31 @@
           <url>file://$PROJECT_DIR$/src/homework5.java</url>
           <line>37</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tranings/src/traning.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tranings/src/traning.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework6.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework6.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework6.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
