@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a226d86-ec19-4316-9a29-6d6a7691fd3f" name="Changes" comment="my fifth homework">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tranings/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tranings/src/traningArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tranings/tranings.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tranings/src/hm7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tranings/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tranings/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tranings/src/traningArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tranings/src/traningArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tranings/tranings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/tranings/tranings.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +65,34 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.homework6">
-    <configuration name="homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\HomeWork\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.homework7">
+    <configuration name="hm7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tranings.src.hm7" />
       <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework5" />
-      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tranings.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="homework6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework6" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework7" />
       <module name="HomeWork" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework7" />
+        <item itemvalue="Application.hm7" />
         <item itemvalue="Application.homework6" />
         <item itemvalue="Application.traningArrays" />
         <item itemvalue="Application.traning" />
-        <item itemvalue="Application.homework5" />
-        <item itemvalue="Application.homework4" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +150,9 @@
       <workItem from="1666459704855" duration="7561000" />
       <workItem from="1666516460552" duration="11949000" />
       <workItem from="1666614900103" duration="3773000" />
+      <workItem from="1666719481546" duration="602000" />
+      <workItem from="1667329705900" duration="3202000" />
+      <workItem from="1667405817461" duration="1074000" />
     </task>
     <task id="LOCAL-00001" summary="my first homework">
       <created>1664637639750</created>
@@ -225,12 +238,12 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tranings/src/traning.java</url>
+          <url>file://$PROJECT_DIR$/src/tranings/src/traning.java</url>
           <line>27</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tranings/src/traning.java</url>
+          <url>file://$PROJECT_DIR$/src/tranings/src/traning.java</url>
           <line>40</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -248,6 +261,11 @@
           <url>file://$PROJECT_DIR$/src/homework6.java</url>
           <line>142</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework7.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

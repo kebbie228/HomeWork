@@ -1,5 +1,5 @@
 import java.util.Random;
-
+/*
 public class traningArrays {
     static int rows=8,cols=8;
     static int[][] arr=new int[rows][cols];
@@ -14,3 +14,5 @@ public class traningArrays {
         }
     }
 
+
+ */
