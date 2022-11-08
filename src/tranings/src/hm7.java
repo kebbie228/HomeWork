@@ -2,22 +2,39 @@ package tranings.src;
 
 import java.util.Arrays;
 import java.util.Random;
+import java.util.Scanner;
 
-public class hm7 { /* https://www.codewars.com/kata/559d7951ce5e0da654000073
-    [11, 12, 13, 14, 15]  -->  379
-     # 1.  2.  3.  4.  5.  position
-     11 + 12^2 + 13 + 14^2 + 15 = 379
-     */
-    static int [] arr=new int[] {11, 12, 13, 14, 15};
+/*
+"4556364607935616" --> "############5616"
+     "64607935616" -->      "#######5616"
+               "1" -->                "1"
+                "" -->                 ""
+ */
+public class hm7 {
+    static int n;
+    static int[] arr = new int[]{};
 
-    public static void main(String[] args)  {
-
-        int sum=0;
-        for (int i = 0; i < arr.length; i++) {
-            if (i % 2 == 0) sum += arr[i];
-            else sum += arr[i] * arr[i];
+    public static void main(String[] args) {
+        /*
+        Scanner scanner=new Scanner(System.in);
+       n= scanner.nextInt();
+       String s=Integer.toBinaryString(n);
+       int count=0;
+       for(int i=0;i<s.length();i++)
+           if(s.charAt(i)=='1') count++;
+        System.out.println(s+" "+count);
+         */
+         String s = "the_stealth_warrior";
+        StringBuilder sb = new StringBuilder(s);
+int k=0;
+        for (int i = 0; i < s.length() - 1; i++) {
+         //   if (s. ) sb=sb.deleteCharAt(i);
+                        System.out.print(s.charAt(i) + " ");
         }
-        System.out.println(sum);
+        System.out.println();
+        System.out.println(sb);
 
-    }
-}
+
+
+
+}}
