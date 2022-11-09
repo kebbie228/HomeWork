@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a226d86-ec19-4316-9a29-6d6a7691fd3f" name="Changes" comment="my fifth homework">
-      <change afterPath="$PROJECT_DIR$/src/homework8_1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_1/StudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_1/homework8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_10/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_10/TrainList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_10/train_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_2/Customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_2/CustomersList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8_2/homework8_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tranings/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tranings/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tranings/src/hm7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tranings/src/hm7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8_10/TrainList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework8_10/TrainList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8_10/train_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework8_10/train_10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +171,8 @@
       <workItem from="1667810640519" duration="3460000" />
       <workItem from="1667833526349" duration="6857000" />
       <workItem from="1667919406441" duration="14712000" />
+      <workItem from="1667995970450" duration="557000" />
+      <workItem from="1668010882398" duration="3980000" />
     </task>
     <task id="LOCAL-00001" summary="my first homework">
       <created>1664637639750</created>
